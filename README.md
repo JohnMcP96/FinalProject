@@ -28,3 +28,15 @@ trying to sort out my win condition which I am absolutely going to make at least
 and also I need to start figuring out how I am going to tackle the gravity thing. But so far my board
 prints and I am very happy about that!
 
+11/19/2023
+I feel like melty brain is just going to be my life from now on as a programmer. So last I left off I
+was able to get the board to print along with a little printf statement that I mentioned last time. So
+basically where I am at now is I have an idea of how I need to structure the checkwin func but I need to
+be able to input and actually win. so I made another print statement prompting the user to pick
+a column and have their piece 'drop' down (still working on the dropping part). I then put the scanf in an
+if statement which im sure we went over in class but I had to do some syntax research in order to fully 
+understand it and my god is it useful! So basically if the user doesnt input into the appropriate column 
+it will spit out an error and have them retry. An interesting thing I discovered however is that if the user
+inputs a letter all Hell breaks loose. So from the research I have been doing it seems I need to clear the 
+input buffer. So I will be figuring this out while I also try to figure out gravity and my checkwin conditions
+
