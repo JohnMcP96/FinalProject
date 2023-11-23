@@ -40,3 +40,13 @@ it will spit out an error and have them retry. An interesting thing I discovered
 inputs a letter all Hell breaks loose. So from the research I have been doing it seems I need to clear the 
 input buffer. So I will be figuring this out while I also try to figure out gravity and my checkwin conditions
 
+11/22/2023
+I think I have a pretty solid checkwin function made. So far the game only inputs on 1 row but it switches 
+between X and O well. It also over rides what ever input is already there so I need to work on that as 
+well but if there are 4 in a straight line it outputs Congrats Player (who ever won) You Win! So thats
+a plus. Now I need to figure out how to get the 'gravity' to work so I can stack pieces and make sure 
+winning diagonally and vertically also work. I plan on working on that today I will update you If I get 
+it to work. Honestly I'm not too sure what else there is to do after that. Other than debugging im sure. 
+The debugging part is where I'm going to work on the whole Hell break loose when a letter is input thing.
+
+
