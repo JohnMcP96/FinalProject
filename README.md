@@ -49,4 +49,11 @@ winning diagonally and vertically also work. I plan on working on that today I w
 it to work. Honestly I'm not too sure what else there is to do after that. Other than debugging im sure. 
 The debugging part is where I'm going to work on the whole Hell break loose when a letter is input thing.
 
-
+12/5/2023
+There has been so much going on but I am happy to say my game works! I have yet to attemt to allow the 
+user to be able to control their own board size but it works! I am so happy with it. It has been a 
+very stressful finals week but it is very satisfying when things come together! Right now I have the 
+board sized defined as a specific number but im pretty sure if I just set that to an integer and have
+a prompt where the user can input a value and bobs your uncle. I have probably another day to work on 
+it so I will try it then but if I cant get it to work then im not too worried about it. As long as it 
+works!
